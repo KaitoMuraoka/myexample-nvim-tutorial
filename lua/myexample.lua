@@ -2,8 +2,8 @@ local M = {} -- モジュール名を宣言
 
 M.config = {
 	message = "Hello World",
-	first_name = "yamada",
-	nickname = "taro",
+	first_name = "KaitoMuraoka",
+	nickname = "とんとんぼ",
 }
 
 M.hello_name = function()
